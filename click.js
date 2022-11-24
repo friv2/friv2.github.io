@@ -1,8 +1,8 @@
 function umClique(){
-  document.getElementById("imagem").src="patrono.png";
+  document.getElementById("imagem").src="xbox logo.png";
   
 }
 function doisCliques(){
-  document.getElementById("imagem").src="harry.jpg";
+  document.getElementById("imagem").src="nintendo logo.png";
   
 }
